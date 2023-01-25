@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex xmlns="http://www.battlescribe.net/schema/dataIndexSchema" battleScribeVersion="2.03" name="WHF 6 MdN - Patrullas Fronterizas" indexUrl="https://raw.githubusercontent.com/nanocity/WHF-6-MdN-Patrullas-Fronterizas/main/index.bsi">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="WHF_6_MdN_-_Patrullas_Fronterizas.gstz" dataType="gamesystem" dataId="4fbd-e136-acec-89ad" dataName="WHF 6 MdN - Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="6ea5-274e-d631-29b6" dataName="MDNR Elfos Oscuros Patrullas Fronterizas " dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Enanos_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="7b52-6766-f408-3954" dataName="MDNR Enanos Patrullas Fronterizas " dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="f97f-c283-3d9a-0a2a" dataName="MDNR Bretonia Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Bestias_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="8cdc-9b41-3d85-2f99" dataName="MDNR Reinos del Caos Bestias Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Hombres_lagarto_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="9c73-4dae-1e99-95d1" dataName="MDNR Hombres lagarto Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Imperio_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="15d2-2bff-9d4d-b8db" dataName="MDNR Imperio Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Skaven_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="f7c2-038a-42a5-1734" dataName="MDNR Skaven Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="575f-ee2e-d3b6-f697" dataName="MDNR Condes Vampiro Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Altos_Elfos_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="37e2-7b01-aba5-4102" dataName="MDNR Altos Elfos Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Silvanos_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="ee88-94dd-bd39-f1f2" dataName="MDNR Elfos Silvanos Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Enanos_del_Caos_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="de1d-c934-84d7-fdbb" dataName="MDNR Enanos del Caos Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Orcos_y_Goblins_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="f671-5861-6d98-d1f0" dataName="MDNR Orcos y Goblins Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Demonios_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="2980-292b-ffe1-257b" dataName="MDNR Reinos del Caos Demonios Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Mortales_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="74c8-013d-c285-5d0a" dataName="MDNR Reinos del Caos Mortales Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Reinos_Ogros_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="7fa1-69cf-1ac9-a18e" dataName="MDNR Reinos Ogros Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Reyes_Funerarios_Patrullas_Fronterizas_v1.catz" dataType="catalogue" dataId="8c86-e6f8-f4ed-b39b" dataName="MDNR Reyes Funerarios Patrullas Fronterizas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
